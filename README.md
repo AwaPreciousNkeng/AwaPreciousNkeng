@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AwaPreciousNkeng
-- 👀 I’m interested in creating a social network
-- 🌱 I’m currently learning C/ C++
-- 💞️ I’m looking to collaborate on this project
-- 📫 How to reach me via email @awaprecious3t@gmail.com
+- 👀 I’m interested in creating a Powerful Business softwares 
+- 🌱 I’m currently a full stack web Developer
+- 💞️ I’m looking for ideas and brilliant minds that are willing to network with me.
+- 📫 You can reach out to me via email @awaprecious3t@gmail.com
